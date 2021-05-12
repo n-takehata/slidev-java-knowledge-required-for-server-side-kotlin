@@ -1,11 +1,21 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 概要
+2021年5月12日開催、[Server-Side Kotlin Study #1](https://server-sider-kotlin.connpass.com/event/210853/)の発表資料のSlidevプロジェクトです。  
 
-To start the slide show:
+# 主なファイル
+- slides.md・・・スライドの内容が記述されたMarkdownファイル
+- slides-export.pdf・・・スライドをexportしたPDFファイル
+- publicディレクトリ配下・・・スライド内で参照される静的ファイル
+
+# 起動方法
+Vue.jsのアプリケーションとして作られており、以下の手順で起動できます。
 
 - `npm install`
 - `npm run dev`
-- visit http://localhost:3030
+- ブラウザで http://localhost:3030 へアクセス
 
-Edit the [slides.md](./slides.md) to see the changes.
+# PDFのexport
+以下のコマンドを実行
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+```
+npm run export
+```
