@@ -1,5 +1,8 @@
 # 概要
-2021年5月12日開催、[Server-Side Kotlin Study #1](https://server-sider-kotlin.connpass.com/event/210853/)の発表資料のSlidevプロジェクトです。  
+2021年5月12日開催、[Server-Side Kotlin Study #1](https://server-sider-kotlin.connpass.com/event/210853/)の発表資料の[Slidev](https://sli.dev/)プロジェクトです。  
+以下の資料を作成しています。
+
+[Server-Side Kotlinで必要なJavaの知識](https://speakerdeck.com/n_takehata/server-side-kotlindebi-yao-najavafalsezhi-shi)
 
 # 主なファイル
 - slides.md・・・スライドの内容が記述されたMarkdownファイル
